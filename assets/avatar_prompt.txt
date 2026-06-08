@@ -1,0 +1,5 @@
+Pixar 3D style, big-head big-eyes and big-ears,the forehead is small and narrow, Q-version chibi portrait of the person, front-facing, three-quarter bust framing, open smile with visible white teeth, soft skin shading, large expressive eyes,
+<替换成球衣描述>
+ Solid pure white background (mandatory, do not use any other color, do not use transparent). Match the lighting and color palette of the.Preserve the subject's facial features, hairline, and skin tone<替换成面部特征描述>.
+
+[CONSTRAINT] The primary team jersey color MUST NOT be white, off-white, cream, or any near-white shade. Pick a saturated, easily keyable color for the main jersey (e.g. red, blue, green, yellow, black, orange, purple). The white background is for keying purposes; a white jersey would blend with the background and break compositing.
